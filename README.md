@@ -106,7 +106,6 @@ These visuals support the transition from GLMs to time series models.
 
 ```bash
 Project.ipynb   # Main analysis and modeling
-src/            # Reserved for modular pipeline (future work)
 ```
 
 ---
